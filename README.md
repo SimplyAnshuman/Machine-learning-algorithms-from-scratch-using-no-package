@@ -1,2 +1,2 @@
 # Machine-learning-algorithms-from-scratch-using-no-package
-Machine Learning Implementations from scratch using no ML packages
+Implementations written from scratch without any sklearn or any other ML packages
